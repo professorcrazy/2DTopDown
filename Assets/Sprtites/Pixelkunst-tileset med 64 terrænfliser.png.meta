@@ -1,0 +1,1607 @@
+fileFormatVersion: 2
+guid: 62080995264cbc145991cd0ac209fd16
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8702045415579973721
+    second: "Pixelkunst-tileset med 64 terr\xE6nfliser_0"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 142
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_0"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1100
+        width: 149
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a70a09cccf1c3780800000000000000
+      internalID: -8702045415579973721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_1"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1100
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac5d98b7dc479840b22ee18dc2c5ed3
+      internalID: -2090729422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_2"
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1100
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cd7ba8da10ec1428b6aa49c55061b6
+      internalID: -1613442043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_3"
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1100
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644b5a282bb47034294d07ac011917bf
+      internalID: 1108175894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_4"
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1100
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793203a0b3366fc4581f6c8f6471a646
+      internalID: -985526889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_5"
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1100
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796ee56dffc288749aab33f954540a44
+      internalID: 132694604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_6"
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1100
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08900b1248b99d34dad7b94238d17800
+      internalID: 605589958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_7"
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1100
+        width: 145
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2802543dc916b924b9ffe4df871b5153
+      internalID: -1560661719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_8"
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 945
+        width: 146
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af29ee01117e8f4419e7bf545c2b38f8
+      internalID: 1991063451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_9"
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 945
+        width: 142
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f30d24aa23218c4b9ce422753cd41e9
+      internalID: 1649471360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_10"
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 945
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c55d83503ca79b428ac95cff3ffe14a
+      internalID: 904146806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_11"
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 945
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a453af1a658dd346a6d0b2a253b3836
+      internalID: -516734005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_12"
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 945
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9306a1206adca4eb44ec85b3ab9301
+      internalID: 2126378928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_13"
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 945
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2ce9f7e87f5704d8b47c22ba34f8cf
+      internalID: 2010553736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_14"
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 945
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0279bb4104c9f4a99230e388a379f9
+      internalID: 1635207941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_15"
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 944
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4280b065cf841d341b18c8756f6fa5ee
+      internalID: -541274093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_16"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 790
+        width: 149
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ba86959ff7bd24992d77c79ba1895d
+      internalID: 390121808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_17"
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 790
+        width: 143
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5c09f5da0921d4b8143580591da951
+      internalID: 1866491655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_18"
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 790
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d5f1090f983744c9928b750de0c13d
+      internalID: 1085311778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_19"
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 790
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3127b58a8d545b4eb46ef88d935a508
+      internalID: 194890227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_20"
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 790
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9873f2351a19d34dbef96190e9d4bfc
+      internalID: -1295460082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_21"
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 790
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdb9f98b811d624d8c737485d2fdd96
+      internalID: -1362930438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_22"
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 790
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f904132c3bfabf4abbee4e5471b3380
+      internalID: 1982876355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_23"
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 790
+        width: 147
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06be095279945b4085bab8e82787e68
+      internalID: 624504049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_24"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 635
+        width: 149
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94c011927f58cb4ca70bc4f5d28676c
+      internalID: -749116041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_25"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 636
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3aaf1115ecccd64fa35eddf6111c1f1
+      internalID: 912085054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_26"
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 635
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab0ede9e91145344805e46c03942008
+      internalID: 1071230269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_27"
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 635
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230a447e5b0689143a1a9453a45d348c
+      internalID: 58462874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_28"
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 635
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8400f4a2e81f14b95b3287f2bd55b8
+      internalID: 1745301439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_29"
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 635
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23857f8a215efc8439a0b959ea355f8a
+      internalID: -1220797439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_30"
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 635
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6e3a82b786e6d4e86545c590784626
+      internalID: -296082763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_31"
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 635
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95cc7a9e167c61499cdc373ea1bfdf8
+      internalID: 40761566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_32"
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 480
+        width: 146
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86eebc786bbf43b4e9690355401a68d1
+      internalID: 1173237788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_33"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 481
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27357f5b7ace384193c38fb9546b143
+      internalID: 428930651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_34"
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 480
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb23423c09657bd449821aa2b0061650
+      internalID: -1597262295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_35"
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 480
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51665be2d032ab341aa8ad03d7a48fe0
+      internalID: 1159097620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_36"
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 480
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67da3d473ca8c6f4682c1efb688d9def
+      internalID: 543195541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_37"
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 480
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc453e15fc91664bbec8320a7aec86d
+      internalID: 768618872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_38"
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 480
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2e98a035c5f5344ae243bf4c3707bb
+      internalID: 1094918878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_39"
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 480
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379db8b2748e1f040af75041ec2d3b13
+      internalID: 1640948606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_40"
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 329
+        width: 144
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bcecdabbc4e864ea2ae9104ef6c306
+      internalID: -259357065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_41"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 328
+        width: 143
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa02f5654cfc3e488fde8b956ff86be
+      internalID: -2103439376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_42"
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 329
+        width: 144
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5208754e3a3b643aba487383f83aa3
+      internalID: -500318809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_43"
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 328
+        width: 143
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc1c0e746fbefe43bb27f9d43af5bcf
+      internalID: -1367667587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_44"
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 329
+        width: 144
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ca1febbe4dd874193a803fc94c1072
+      internalID: 800253411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_45"
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 328
+        width: 144
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7bdddce7409924fae648607fca0f15
+      internalID: 1089515000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_46"
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 328
+        width: 144
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855c877dfc800dd488d4ac88a42ef77a
+      internalID: -1483314515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_47"
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 330
+        width: 144
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405025b0dd80fb145abe3d9436533a19
+      internalID: -1901921709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_48"
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 175
+        width: 147
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eeebdff3d2ca8144880434bfcaf2485
+      internalID: 2066630162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_49"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 175
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec56c66b86951445965ce3ac26d2e7d
+      internalID: -1425449180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_50"
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 175
+        width: 144
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6cabe05801d3c4e91c6b5e8b257b84
+      internalID: 2060984935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_51"
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 175
+        width: 145
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d193b19050f6b4389277f4465210ed
+      internalID: -1551523034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_52"
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 175
+        width: 144
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d47d4b7af361b44907240c7e721c57
+      internalID: -1007136669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_53"
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 175
+        width: 144
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c5ff68de554614eb7125cf3dfe9af1
+      internalID: -578971736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_54"
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 176
+        width: 144
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5de2329157fb014faeb30a92d4405e4
+      internalID: 944336343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_55"
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 175
+        width: 146
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e375e2e908b3c48acbe1aadb29fbb5
+      internalID: 745176382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_56"
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 15
+        width: 146
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d340a1948c387ce44bb1f38a1af5abd8
+      internalID: -382741708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_57"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 15
+        width: 144
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0533ce57c4b612641bfa48147e79f2b5
+      internalID: -1801439714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_58"
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 15
+        width: 144
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd29db7276f5f704b860fff66b404db7
+      internalID: 1049215583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_59"
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 15
+        width: 144
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbf1aae02f256449a2bb9e4a758e37f
+      internalID: 1241294188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_60"
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 15
+        width: 144
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ce16c6b411bb347839326308534c37
+      internalID: 432643266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_61"
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 15
+        width: 144
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73a2063c0175054fa0681581e7df763
+      internalID: 718079636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_62"
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 14
+        width: 144
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320aed3563effaa4fa32be0f61b17c83
+      internalID: 231996796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixelkunst-tileset med 64 terr\xE6nfliser_63"
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 15
+        width: 146
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c66c996a8ee57458fd5d8e36a46106
+      internalID: 2114670023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bfd5ba96c9f4fe5468e57e48fae47570
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":8.0},"gridSpriteSize":{"x":144.0,"y":144.0},"gridSpriteOffset":{"x":10.0,"y":10.0},"gridSpritePadding":{"x":12.0,"y":11.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_0": -8702045415579973721
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_1": -2090729422
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_10": 904146806
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_11": -516734005
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_12": 2126378928
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_13": 2010553736
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_14": 1635207941
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_15": -541274093
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_16": 390121808
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_17": 1866491655
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_18": 1085311778
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_19": 194890227
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_2": -1613442043
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_20": -1295460082
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_21": -1362930438
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_22": 1982876355
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_23": 624504049
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_24": -749116041
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_25": 912085054
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_26": 1071230269
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_27": 58462874
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_28": 1745301439
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_29": -1220797439
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_3": 1108175894
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_30": -296082763
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_31": 40761566
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_32": 1173237788
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_33": 428930651
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_34": -1597262295
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_35": 1159097620
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_36": 543195541
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_37": 768618872
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_38": 1094918878
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_39": 1640948606
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_4": -985526889
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_40": -259357065
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_41": -2103439376
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_42": -500318809
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_43": -1367667587
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_44": 800253411
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_45": 1089515000
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_46": -1483314515
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_47": -1901921709
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_48": 2066630162
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_49": -1425449180
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_5": 132694604
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_50": 2060984935
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_51": -1551523034
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_52": -1007136669
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_53": -578971736
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_54": 944336343
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_55": 745176382
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_56": -382741708
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_57": -1801439714
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_58": 1049215583
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_59": 1241294188
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_6": 605589958
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_60": 432643266
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_61": 718079636
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_62": 231996796
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_63": 2114670023
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_7": -1560661719
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_8": 1991063451
+      "Pixelkunst-tileset med 64 terr\xE6nfliser_9": 1649471360
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

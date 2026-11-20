@@ -1,0 +1,1607 @@
+fileFormatVersion: 2
+guid: 7f659a3c09aae324ba60fdb17f20c0c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6261958488555807793
+    second: "Kontorfliser i pixelkunst til indend\xF8rs brug_0"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 146
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_0"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1098
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb93639eed0919a0800000000000000
+      internalID: -6261958488555807793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_1"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1098
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca485fda16008ea449351d1c62e755d6
+      internalID: 101111535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_2"
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1098
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e909baf71b1b845a2ef301895c9e07
+      internalID: -1573768116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_3"
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1098
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fe15d83f4ab3e4180822c97d35f510
+      internalID: 1599293295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_4"
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1098
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9090ca3146cb6ee4b8efc8f4d2e53ace
+      internalID: -1560362125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_5"
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1098
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b9ac4bde0973748b47cc47f3fe18e1
+      internalID: 351189110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_6"
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1098
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46cebaa94627e141b296b16fdb18e87
+      internalID: -1623944705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_7"
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1098
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf03964ef06a0bb499f04a1eb8af9f58
+      internalID: 1624996973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_8"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 942
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8f6661d287ff74289255d4c23a3453
+      internalID: -1249073547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_9"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 942
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ffff3397f92ae409f994d7914ac519
+      internalID: -747892011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_10"
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 942
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2779091d719d7814db06ae572c759c5e
+      internalID: -1763016202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_11"
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 942
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f16a4fe042eefa4fbd8f5ddbaee59dc
+      internalID: -1713347793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_12"
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 942
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b84a8698e007f9478a7e55dd78f7f4c
+      internalID: -1638105685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_13"
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 942
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ff73f1b5cedbb4ca6d03debdaa511b
+      internalID: 1992228038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_14"
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 942
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2761e2f06ede7d4ebcf52fb1a96e7d7
+      internalID: 1201071157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_15"
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 942
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e705a768902cfc4a92d7440c6b3e5b4
+      internalID: 1247220078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_16"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 786
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffb9b30e509d7f47b85eec4826bd3b3
+      internalID: 2119944709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_17"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 786
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e632af35cbe1eb14bb951b5de597f798
+      internalID: 1860992795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_18"
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 786
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f2b002633fd6a46bbbc3af3bc32a26
+      internalID: -872075847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_19"
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 786
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c994f3090249bc48ab43a53ae68c843
+      internalID: 1107362169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_20"
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 786
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3644dbc067fbf6d4797b3ea5d8595e62
+      internalID: -1285161809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_21"
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 786
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f851bca684898f14994ff98cd14351a3
+      internalID: 1217133315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_22"
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 786
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cfc39a83d6082448ba5b93ebfea113
+      internalID: 1775489403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_23"
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 786
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57010fe6204c2b24e879314bb2a2c0df
+      internalID: -1623706962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_24"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 630
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1ff1f101e94004c8330c919b0c0eeb
+      internalID: 974258168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_25"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 630
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff7cf3eb59a1824ba64ae2333b07136
+      internalID: -2059104455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_26"
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 630
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb9c066e0bfe6a43a80a8eef9494933
+      internalID: 1060846716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_27"
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 630
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f873fb989f20c24e866955bdb335e6d
+      internalID: -1668106009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_28"
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 630
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e927ca9f6d31e4f83ba4635c3dc677
+      internalID: -805985249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_29"
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 630
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17629ac03f6078d4a9af42dbcd12eb08
+      internalID: 369795104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_30"
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 630
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f707841dfbcb145a8daadc926b2ec9
+      internalID: -326116862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_31"
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 630
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd45021e59b8714a899f212bbefa161
+      internalID: 1995678699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_32"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 474
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23b67273bb02104d81e5de02f191bec
+      internalID: 2083194116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_33"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 474
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8bc7e8d59bfdd479db60763ace41c8
+      internalID: 624505212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_34"
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 474
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a068d1500e06a174a95ea7d024ec9caf
+      internalID: -1912820830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_35"
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 474
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdc739d3c10aa94db7a65c98fb3c6f4
+      internalID: -1034803417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_36"
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 474
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09925f6c39d72014eb5ad3d3a0d56536
+      internalID: 317080463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_37"
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 474
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8bc7c5898c47f498c9347dd9131939
+      internalID: 74428218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_38"
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 474
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2a4c9be21fe834abc54076dade81d4
+      internalID: -1638170318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_39"
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 474
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a950b0448f1c8943a2cc01490542728
+      internalID: -609342281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_40"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 318
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9c5200a9087fc479a069f84be31ebd
+      internalID: -1265568835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_41"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 318
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203ab08dc375f0a46966bb1c15e5a0e0
+      internalID: -818064055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_42"
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 318
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bb85809f0791f4a8630b58abd48343
+      internalID: -248270516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_43"
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 318
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a559b17aaf60ac479876a3f376b1a81
+      internalID: -407136373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_44"
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 318
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af461230f21cebf47adce0874c71a502
+      internalID: 459035522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_45"
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 318
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39df40f1e4ac20c43a2f82c5d4deef5b
+      internalID: 957280195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_46"
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 318
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28d6483933c53544a567efa19fe6db7
+      internalID: 1653296739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_47"
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 318
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1262b7edf781b04eab64c6bb1358c99
+      internalID: 1447913795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_48"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 162
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15291b6d38e74714d8e0f8f2c0129d4b
+      internalID: 1054984963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_49"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 162
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f1fdd5f57b2a44a80480ed779ecbf8
+      internalID: 366389592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_50"
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 162
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed11d8f4f1e661f4182c96669446c4bb
+      internalID: -220962819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_51"
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 162
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353573a61f753da4d9902542cde60fde
+      internalID: 552431787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_52"
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 162
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ab24d6162c2cc4eb30df3fa545805d
+      internalID: 44030895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_53"
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 162
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42baca387acedc14081ffc4f4e90e6a3
+      internalID: -62437489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_54"
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 162
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b79726053a4d1f4ca42ee7da79b600f
+      internalID: 325517174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_55"
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 162
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612f4ed0f0ed91d47b146a9025077ca5
+      internalID: 869366704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_56"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 6
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a6f6f49f9b6a643aa6b4b9cf7331d1
+      internalID: 2050101737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_57"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 6
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159d88e9ed503cf4595f81b68162934e
+      internalID: -1748738606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_58"
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 6
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a972d362038f34b489f8ed3b64f3a11f
+      internalID: 1929100604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_59"
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 6
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfc4208fc9144d4da29bc9db0ab2e6e
+      internalID: 485302338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_60"
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 6
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98338146b17d2ce4b98b1f7b61b96f32
+      internalID: -7450305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_61"
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 6
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954a425b8687d60448f53cd819fc1f0d
+      internalID: -1004581576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_62"
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 6
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34206621409b7b746b3edca05741d699
+      internalID: 1806607624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kontorfliser i pixelkunst til indend\xF8rs brug_63"
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 6
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852301cf0b4e909428b46d2211caf153
+      internalID: -958343501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ccfe78e552561b54e9bd23fc1cf47b21
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":8.0},"gridSpriteSize":{"x":146.0,"y":146.0},"gridSpriteOffset":{"x":10.0,"y":10.0},"gridSpritePadding":{"x":10.0,"y":10.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_0": -6261958488555807793
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_1": 101111535
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_10": -1763016202
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_11": -1713347793
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_12": -1638105685
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_13": 1992228038
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_14": 1201071157
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_15": 1247220078
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_16": 2119944709
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_17": 1860992795
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_18": -872075847
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_19": 1107362169
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_2": -1573768116
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_20": -1285161809
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_21": 1217133315
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_22": 1775489403
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_23": -1623706962
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_24": 974258168
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_25": -2059104455
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_26": 1060846716
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_27": -1668106009
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_28": -805985249
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_29": 369795104
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_3": 1599293295
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_30": -326116862
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_31": 1995678699
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_32": 2083194116
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_33": 624505212
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_34": -1912820830
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_35": -1034803417
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_36": 317080463
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_37": 74428218
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_38": -1638170318
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_39": -609342281
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_4": -1560362125
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_40": -1265568835
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_41": -818064055
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_42": -248270516
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_43": -407136373
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_44": 459035522
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_45": 957280195
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_46": 1653296739
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_47": 1447913795
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_48": 1054984963
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_49": 366389592
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_5": 351189110
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_50": -220962819
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_51": 552431787
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_52": 44030895
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_53": -62437489
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_54": 325517174
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_55": 869366704
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_56": 2050101737
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_57": -1748738606
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_58": 1929100604
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_59": 485302338
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_6": -1623944705
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_60": -7450305
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_61": -1004581576
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_62": 1806607624
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_63": -958343501
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_7": 1624996973
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_8": -1249073547
+      "Kontorfliser i pixelkunst til indend\xF8rs brug_9": -747892011
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
